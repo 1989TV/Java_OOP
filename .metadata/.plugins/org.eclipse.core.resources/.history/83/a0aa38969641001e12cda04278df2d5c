@@ -1,0 +1,7 @@
+package AbstactClass;
+
+public class MainClass {
+	public static void main (String[] args) {
+		Salary sa = new Salary ("Mg Mg", "Lan Gyo Lan Gar", 3, 10000);
+	}
+}

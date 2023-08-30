@@ -1,0 +1,28 @@
+package OOP_Inheritence;
+
+interface Shape{
+
+	public double area();
+
+	public double perimeter();
+}
+
+public class Cirlce implements Shape {
+	
+	Cirlce(){
+		
+	}
+
+	@Override
+	public double area() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double perimeter() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

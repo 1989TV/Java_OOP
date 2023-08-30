@@ -1,0 +1,9 @@
+package OOP_Inheritence;
+
+
+	
+	public interface Shape() {
+		
+	}
+
+
